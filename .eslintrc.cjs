@@ -14,5 +14,8 @@ module.exports = {
       'warn',
       { allowConstantExport: true },
     ],
+    'indent': ['error', 'tab'],
+    'object-curly-spacing': ['error', 'always'],
+    "semi": ["error", "always"],
   },
 }
